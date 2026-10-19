@@ -5,7 +5,7 @@ Analysis of a 99-project portfolio (2021–2025) to find where and when projects
 **Tools:** Python (pandas, SciPy, Matplotlib)
 **Methods:** chi-square tests, Kruskal-Wallis tests, portfolio and phase analysis
 
-📓 [Notebook](notebooks/project_portfolio_analysis.ipynb)
+📓 [Notebook](notebooks/project_portfolio_analysis.ipynb) · 🔗 [Kaggle version](https://www.kaggle.com/code/igormlopes/project-mngt-mayarmohamedswiam-portfolio)
 
 ---
 
